@@ -66,4 +66,4 @@ Instead of only solving isolated exercises, I wanted to:
 ## How to run
 
 ```bash
-python log_analyzer.py
+python fmla.py
